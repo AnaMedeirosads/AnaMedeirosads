@@ -1,5 +1,5 @@
 - 👋 Olá, sou @Ana Paula Medeiros
-- 👀 Estou interessado em Tecnologia.
+- 👀 Estou interessada em Tecnologia.
 - 🌱 Atualmente estou aprendendo desenvolvimento-full-stack.
 - 📫 Como entrar em contato comigo anapaulamedeiros.ads@gmail.com
 
